@@ -1,1 +1,6 @@
-site_name: My Docs
+site_name: Kubeflow Pages
+site_url: https://johnhoman.github.io/kubeflow-pages
+theme:
+  name: material
+nav:
+- Home: index.md
